@@ -1,0 +1,3 @@
+1.- Se necesita ejecutar como administrador la primera vez que se ejecute ya que instala dependencias las proximas veces puede ser con doble clic
+2.- Se abrirá un CMD seguido de tu navegador predeterminado sin embargo el link puedes abrirlo en cualquier navegador mientras el CMD siga abierto
+3.- Para cerrarlo es necesario cerrar el CMD esto liberará el servidor y donde esté abierto saltará un error
